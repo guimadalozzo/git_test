@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>702294580891-tdcv5bq6v2nkb9jriqjncfklp2ovj2ip.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.702294580891-tdcv5bq6v2nkb9jriqjncfklp2ovj2ip</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3Gq-WkZqgsgYUr1E_n8Da6Zc_yfvmdvA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>702294580891</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.animal.controle.madalozzo.flutterWithFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>fbtest-d75f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fbtest-d75f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:702294580891:ios:930118d64e4d08de11f03e</string>
+	<key>DATABASE_URL</key>
+	<string>https://fbtest-d75f8.firebaseio.com</string>
+</dict>
+</plist>
